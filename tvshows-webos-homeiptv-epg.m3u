@@ -1,21 +1,73 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV16","CCTV16"
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5","CCTV5"
-http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5+","CCTV5+"
-http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频","咪咕视频"
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5","CCTV5"
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5+","CCTV5+"
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5phd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV8K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="[8K25fps]冬奥专题", CCTV-16[4K]
-http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV1","CCTV1"
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5","CCTV5"
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV5+","CCTV5+"
-http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1,CCTV-1 综合 高清
+http://112.17.52.85/PLTV/88888888/224/3221233701/index.m3u8
+#EXTINF:-1,CCTV-2 财经 高清
+http://112.17.52.85/PLTV/88888888/224/3221233718/index.m3u8
+#EXTINF:-1,CCTV-3 综艺 高清
+http://112.17.52.85/PLTV/88888888/224/3221233715/index.m3u8
+#EXTINF:-1,CCTV-4 中文国际
+http://112.17.52.85/PLTV/88888888/224/3221233686/index.m3u8
+#EXTINF:-1,CCTV-5 体育 高清
+http://112.17.52.85/PLTV/88888888/224/3221233724/index.m3u8
+#EXTINF:-1,CCTV-6 电影 高清
+http://112.17.52.85/PLTV/88888888/224/3221233713/index.m3u8
+#EXTINF:-1,CCTV-8 电视剧 高清
+http://112.17.52.85/PLTV/88888888/224/3221233721/index.m3u8
+#EXTINF:-1,CCTV-9 纪录 高清
+http://112.17.52.85/PLTV/88888888/224/3221233706/index.m3u8
+#EXTINF:-1,CCTV13新闻
+http://112.17.52.85/PLTV/88888888/224/3221233712/index.m3u8
+#EXTINF:-1,CCTV4K超高清
+http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
+#EXTINF:-1,北京卫视
+http://112.17.52.85/PLTV/88888888/224/3221233730/index.m3u8
+#EXTINF:-1,东方卫视
+http://112.17.52.85/PLTV/88888888/224/3221233692/index.m3u8
+#EXTINF:-1,天津卫视
+http://112.17.52.85/PLTV/88888888/224/3221233682/index.m3u8
+#EXTINF:-1,重庆卫视
+http://112.17.52.85/PLTV/88888888/224/3221233677/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://112.17.52.85/PLTV/88888888/224/3221233694/index.m3u8
+#EXTINF:-1,山东卫视
+http://112.17.52.85/PLTV/88888888/224/3221233641/index.m3u8
+#EXTINF:-1,安徽卫视
+http://112.17.52.85/PLTV/88888888/224/3221233653/index.m3u8
+#EXTINF:-1,湖北卫视
+http://112.17.52.85/PLTV/88888888/224/3221233668/index.m3u8
+#EXTINF:-1,湖南卫视
+http://112.17.52.85/PLTV/88888888/224/3221233707/index.m3u8
+#EXTINF:-1,江苏卫视
+http://112.17.52.85/PLTV/88888888/224/3221233689/index.m3u8
+#EXTINF:-1,浙江卫视
+http://112.17.52.85/PLTV/88888888/224/3221233695/index.m3u8
+#EXTINF:-1,广东卫视
+http://112.17.52.85/PLTV/88888888/224/3221233667/index.m3u8
+#EXTINF:-1,深圳卫视
+http://112.17.52.85/PLTV/88888888/224/3221233664/index.m3u8
+#EXTINF:-1,海南卫视
+http://112.17.52.85/PLTV/88888888/224/3221233697/index.m3u8
+#EXTINF:-1,都市剧场
+http://112.17.52.85/PLTV/88888888/224/3221233659/index.m3u8
+#EXTINF:-1,爱谍战
+http://112.17.52.85/PLTV/88888888/224/3221233691/index.m3u8
+#EXTINF:-1,爱科幻
+http://112.17.52.85/PLTV/88888888/224/3221233656/index.m3u8
+#EXTINF:-1,爱浪漫
+http://112.17.52.85/PLTV/88888888/224/3221233665/index.m3u8
+#EXTINF:-1,爱历史
+http://112.17.52.85/PLTV/88888888/224/3221233685/index.m3u8
+#EXTINF:-1,爱旅游
+http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
+#EXTINF:-1,爱体育
+http://112.17.52.85/PLTV/88888888/224/3221233700/index.m3u8
+#EXTINF:-1,爱喜剧
+http://112.17.52.85/PLTV/88888888/224/3221233658/index.m3u8
+#EXTINF:-1,爱悬疑
+http://112.17.52.85/PLTV/88888888/224/3221233650/index.m3u8
+#EXTINF:-1,爱院线http://112.17.52.85/PLTV/88888888/224/3221233680/index.m3u8
+#EXTINF:-1,未知1
+http://112.17.52.85/PLTV/88888888/224/3221233638/index.m3u8
+#EXTINF:-1,未知2
+http://112.17.52.85/PLTV/88888888/224/3221233671/index.m3u8
+#EXTINF:-1,未知3
+http://112.17.52.85/PLTV/88888888/224/3221233674/index.m3u8
